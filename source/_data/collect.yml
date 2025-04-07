@@ -1,0 +1,85 @@
+- class_name: 📖已读完
+  class_desc: # 分类
+  link_list:
+    - name: 《成瘾》 #名字
+      img: /img/me_img/wodeyuedu_img/chengyin.png #图片链接
+      score: 5 # 1-5星
+      icon: fa-solid fa-film #左上角图标
+      tip: 科学 # 右上角文字
+      url: # 可选
+    - name: 《断舍离》 #名字
+      img: /img/me_img/wodeyuedu_img/duansheli.png #图片链接
+      score: 5 # 1-5星
+      icon: fa-solid fa-film #左上角图标
+      tip: 个人成长 # 右上角文字
+      url: # 可选
+    - name: 《活着》 #名字
+      img: /img/me_img/wodeyuedu_img/huozhe.png #图片链接
+      score: 5 # 1-5星
+      icon: fa-solid fa-film #左上角图标
+      tip: 文学 # 右上角文字
+      url: # 可选
+    - name: 《认知觉醒》 #名字
+      img: /img/me_img/wodeyuedu_img/renzhijuexing.png #图片链接
+      score: 5 # 1-5星
+      icon: fa-solid fa-film #左上角图标
+      tip: 心理 # 右上角文字
+      url: # 可选
+    - name: 《我在人间凑数的日子》 #名字
+      img: /img/me_img/wodeyuedu_img/wozairenjiancoushuderzi.png #图片链接
+      score: 5 # 1-5星
+      icon: fa-solid fa-film #左上角图标
+      tip: 文学 # 右上角文字
+      url: # 可选
+    - name: 《16小时断食术》 #名字
+      img: /img/me_img/wodeyuedu_img/16xiaoshiduanshishu.png #图片链接
+      score: 5 # 1-5星
+      icon: fa-solid fa-film #左上角图标
+      tip: 医学健康 # 右上角文字
+      url: # 可选
+    - name: 《带壳的牡蛎是大人的心脏》 #名字
+      img: /img/me_img/wodeyuedu_img/daikedemulishidarendexinzang.png #图片链接
+      score: 5 # 1-5星
+      icon: fa-solid fa-film #左上角图标
+      tip: 个人成长 # 右上角文字
+      url: # 可选
+    - name: 《你也走了很远的路吧》 #名字
+      img: /img/me_img/wodeyuedu_img/niyezoulehenyuandeluba.png #图片链接
+      score: 5 # 1-5星
+      icon: fa-solid fa-film #左上角图标
+      tip: 精品小说 # 右上角文字
+      url: # 可选
+    - name: 《不被大风吹到》 #名字
+      img: /img/me_img/wodeyuedu_img/bubeidafengchuidao.png #图片链接
+      score: 5 # 1-5星
+      icon: fa-solid fa-film #左上角图标
+      tip: 文学 # 右上角文字
+      url: # 可选
+
+- class_name: 📚 我的书单
+  class_desc: # 分类
+  link_list:
+    - name: 《平凡的世界》 #名字
+      img: /img/me_img/wodeyuedu_img/pingfandeshijie.png #图片链接
+      score: 5 # 1-5星
+      icon: fa-solid fa-film #左上角图标
+      tip: 文学 # 右上角文字
+      url: # 可选
+    - name: 《纳瓦尔宝典》 #名字
+      img: /img/me_img/wodeyuedu_img/nawaerbaodian.png #图片链接
+      score: 5 # 1-5星
+      icon: fa-solid fa-film #左上角图标
+      tip: 经济理财 # 右上角文字
+      url: # 可选
+    - name: 《把时间当作朋友》 #名字
+      img: /img/me_img/wodeyuedu_img/bashijiandangzuopengyou.png #图片链接
+      score: 5 # 1-5星
+      icon: fa-solid fa-film #左上角图标
+      tip: 个人成长 # 右上角文字
+      url: # 可选
+    - name: 《亲密关系》 #名字
+      img: /img/me_img/wodeyuedu_img/qinmiguanxi.png #图片链接
+      score: 5 # 1-5星
+      icon: fa-solid fa-film #左上角图标
+      tip: 心理 # 右上角文字
+      url: # 可选

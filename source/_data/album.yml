@@ -1,0 +1,44 @@
+- class_name: 那些美好瞬间景色
+  path_name: /wordScenery #要在source/里面创建一个名字相同的文件夹
+  type: 2
+  description: # 因为到不了世界各地，所以请网友们发来了各地的夕阳与风景🌇。
+  cover: /img/me_img/xiangceji_img/meihao_img/1.png
+  top_background: /img/me_img/xiangceji_img/meihao_img/1.png
+  rowHeight: 220
+  limit: 10
+  lazyload: true
+  btnLazyload: false
+  url: false
+  top_link: /album
+  top_btn_text: 返回
+  album_list:
+    # - date: 2022/10/26 01:00:00
+    #   content: 湘潭的一角。
+    #   address: 湖南湘潭
+    #   from: 再吃一口就减肥
+    #   image:
+    #     - https://bu.dusays.com/2023/04/09/64329399db122.webp
+    # - date: 2022-10-25
+    #   content: 洛阳暴雨后的天空。
+    #   address: 河南洛阳
+    #   from: 紫菜卷
+    #   image:
+    #     - https://bu.dusays.com/2023/04/09/64329399db122.webp
+    #     - https://bu.dusays.com/2023/04/09/64329399db2e1.webp
+
+- class_name: 日常那些瞬间
+  path_name: /dailyPhoto
+  type: 1
+  description: # 停留在相片里的时间
+  top_link: /album
+  top_btn_text: 返回
+  top_background: /img/me_img/xiangceji_img/rechang_img/1.png
+  cover: /img/me_img/xiangceji_img/rechang_img/2.png
+  album_list:
+     - date: 2025-3-11
+       content: 办公室的猫咪呀~~~~ 好可爱呀❤😍
+       image:
+         - /img/me_img/dailyPhoto_img/2025_0311/20250311_猫咪.jpg
+         - /img/me_img/dailyPhoto_img/2025_0311/20250311_猫咪2.jpg
+         - /img/me_img/dailyPhoto_img/2025_0311/20250311_猫咪3.jpg
+         - /img/me_img/dailyPhoto_img/2025_0311/20250311_猫咪5.jpg
